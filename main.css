@@ -1,0 +1,28 @@
+#result {
+  width: 476px;
+  height: 47px;
+  margin-bottom: 2px;
+  text-align: right;
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  padding: 0px 10px;
+  border: black;
+}
+
+.style1 {
+  width: 120px;
+  height: 45px;
+  border: 2px solid gray;
+  border-radius: 10px;
+  margin-bottom: 3px;
+  font-size: 25px;
+}
+
+.style2 {
+  width: 245px;
+  height: 45px;
+  border: 2px solid gray;
+  border-radius: 10px;
+  font-size: 25px;
+}
